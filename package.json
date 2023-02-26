@@ -12,13 +12,13 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rockman88v/nodejs-demo-k8s.git"
+    "url": "git+https://github.com/luudinhmac/demo-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rockman88v/nodejs-demo-k8s/issues"
+    "url": "https://github.com/luudinhmac/demo-app/issues"
   },
-  "homepage": "https://github.com/rockman88v/nodejs-demo-k8s#readme",
+  "homepage": "https://github.com/luudinhmac/demo-app#readme",
   "description": ""
 }
