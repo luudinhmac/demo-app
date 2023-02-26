@@ -1,6 +1,6 @@
 {
-  "name": "gdgwpgk8s-hello",
-  "version": "0.0.0",
+  "name": "nodejs-demo-k8s",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "webpack --config webpack.config.js",
