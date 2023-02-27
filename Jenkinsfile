@@ -8,7 +8,7 @@ def appConfigRepo = 'https://github.com/luudinhmac/app-helmchart.git'
 def appConfigBranch = 'master'
 def helmRepo = "app-helmchart"
 def helmChart = "app-demo"
-def helmValueFile = "app-demo/value.yaml" 
+def helmValueFile = "app-demo/values.yaml" 
 // app-demo-value.yaml"
 
 def dockerhubAccount = 'dockerhub'
